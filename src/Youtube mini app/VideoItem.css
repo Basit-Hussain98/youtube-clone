@@ -1,0 +1,9 @@
+.item {
+	display: flex !important;
+	align-items: center !important;
+	cursor: pointer;
+}
+.item .ui,
+.image img {
+	max-width: 200px;
+}
